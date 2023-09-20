@@ -44,7 +44,7 @@
     <td valign="top">
       <h4>Screenplay Resources:</h4>
       <ol start="1">
-        <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/General/README.md">📚 Foundations - Storytelling</a></li>
+        <li><a href="https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/24%20Blocks/General/README.md">📚 Foundations - Storytelling</a></li>
         <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/24%20Blocks/README.md">📚 Structure - 24 Blocks**</a></li>
         <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Essentials/README.md">📚 Essentials - Tone, Pacing</a></li>
         <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Character/README.md">📚 Character - Development</a></li>
