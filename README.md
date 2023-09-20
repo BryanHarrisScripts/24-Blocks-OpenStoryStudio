@@ -20,7 +20,7 @@
           <ol start="1">
         <li><a href="https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/Experiment%20Learnings.md">Why Innovate?</a><br>
         <li><a href="https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/OpenSource/Open Source Collaboration.md">Why Open-source?</a><br>
-        <li><a href="https://https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/OpenSource/1%20Million%20Voices.md">Why Open Collaboration?</a><br>
+        <li><a href="https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/OpenSource/1%20Million%20Voices.md">Why Open Collaboration?</a><br>
         <li><a href="https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/Collaborators/README.md">Collaborators Guide</a></li>   
         <li><a href="https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/Blog/README.md">Blogs - How To's & Info</a></li>
         <li><a href="https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/Images">Images - Images Used</a></li>
