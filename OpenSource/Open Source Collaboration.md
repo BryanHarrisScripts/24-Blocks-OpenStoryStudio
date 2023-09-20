@@ -1,6 +1,6 @@
 <div align="right" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 1em; margin: 4em 0;">
 
-<a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/README.md">Home</a>
+<a href="https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/README.md">Home</a>
 
 <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 1em; margin: 4em 0;">
 
