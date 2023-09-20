@@ -1,6 +1,6 @@
 <div align="right" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 1em; margin: 4em 0;">
 
-<a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/README.md">Home</a>
+<a href="https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/README.md">Home</a>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 1em; margin: 4em 0;">
   
@@ -10,21 +10,21 @@
   <tr>
     <td valign="top">
 <ol>
-<li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Dialogue/24%20Blocks%20-%20Different%20Genres.md">24 Blocks - Different Genres</a></li>
-<li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Dialogue/24%20Blocks%20-%20Conflict.md">24 Blocks - Conflict</a></li>
-<li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Dialogue/24%20Blocks%20-%20Balancing%20Action.md">24 Blocks - Balancing Action</a></li>
-<li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Dialogue/24%20Blocks%20-%20Distinctive%20Voices.md">24 Blocks - Distinctive Voices</a></li>
-<li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Dialogue/24%20Blocks%20-%20Realistic%20Dialogue.md">24 Blocks - Realistic Dialogue</a></li>
-<li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Dialogue/24%20Blocks%20-%20Dialogue%20Pitfalls.md">24 Blocks - Dialogue Pitfalls</a></li>
+<li><a href="https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/Dialogue/24%20Blocks%20-%20Different%20Genres.md">24 Blocks - Different Genres</a></li>
+<li><a href="https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/Dialogue/24%20Blocks%20-%20Conflict.md">24 Blocks - Conflict</a></li>
+<li><a href="https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/Dialogue/24%20Blocks%20-%20Balancing%20Action.md">24 Blocks - Balancing Action</a></li>
+<li><a href="https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/Dialogue/24%20Blocks%20-%20Distinctive%20Voices.md">24 Blocks - Distinctive Voices</a></li>
+<li><a href="https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/Dialogue/24%20Blocks%20-%20Realistic%20Dialogue.md">24 Blocks - Realistic Dialogue</a></li>
+<li><a href="https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/Dialogue/24%20Blocks%20-%20Dialogue%20Pitfalls.md">24 Blocks - Dialogue Pitfalls</a></li>
 </ol>
     </td>
     <td valign="top">
 <ol start="7">
-<li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Dialogue/24%20Blocks%20-%20Tags%20and%20Beats.md">24 Blocks - Tags and Beats</a></li>
-<li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Dialogue/24%20Blocks%20-%20Subtext.md">24 Blocks - Subtext</a></li>
-<li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Dialogue/24%20Blocks%20-%20Reveal%20Character.md">24 Blocks - Reveal Character</a></li>
-<li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Dialogue/24%20Blocks%20-%20Refining%20Dialogue.md">24 Blocks - Refining Dialogue</a></li>
-<li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Dialogue/24%20Blocks%20-%20Art%20of%20Silence.md">24 Blocks - Art of Silence</a></li>
+<li><a href="https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/Dialogue/24%20Blocks%20-%20Tags%20and%20Beats.md">24 Blocks - Tags and Beats</a></li>
+<li><a href="https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/Dialogue/24%20Blocks%20-%20Subtext.md">24 Blocks - Subtext</a></li>
+<li><a href="https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/Dialogue/24%20Blocks%20-%20Reveal%20Character.md">24 Blocks - Reveal Character</a></li>
+<li><a href="https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/Dialogue/24%20Blocks%20-%20Refining%20Dialogue.md">24 Blocks - Refining Dialogue</a></li>
+<li><a href="https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/Dialogue/24%20Blocks%20-%20Art%20of%20Silence.md">24 Blocks - Art of Silence</a></li>
 </ol>
     </td>
   </tr>
