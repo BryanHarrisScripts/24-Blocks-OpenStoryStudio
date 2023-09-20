@@ -13,7 +13,7 @@
     <td valign="top">
       
 1. [24 Blocks - ChatGPT Tips](https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/AI%20Prompts/24%20Blocks%20-%20ChatGPT%20Tips.md)
-2. [24 Blocks - Individual Critical](https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/main/AI%20Prompts/24%20Blocks%20-%20Individual%20Critical.md)
+2. [24 Blocks - Individual Critical](https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/AI%20Prompts/24%20Blocks%20-%20Individual%20Critical.md)
 3. [24 Blocks - Individual Intermediate](https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/AI%20Prompts/24%20Blocks%20-%20Individual%20Intermediate.md)
 4. [24 Blocks - Individual Fine-Tuning](https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/AI%20Prompts/24%20Blocks%20-%20Individual%20Fine-Tuning.md)
 5. [24 Blocks - Critique and Pacing](https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/AI%20Prompts/24%20Blocks%20-%20Critique%20and%20Pacing.md)
@@ -22,8 +22,8 @@
 <ol start="6">
 <li><a href="https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/AI%20Prompts/24%20Blocks%20-%20Copywriting%20and%20Marketing.md">24 Blocks - Copywriting and Marketing</a></li> 
 <li><a href="https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/AI%20Prompts/24%20Blocks%20-%20Redundancy%20and%20Streamlining.md">24 Blocks - Redundancy and Streamlining</a></li>
-<li><a href="https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/main/AI%20Prompts/24%20Blocks%20-%20Structure%20and%20Characters.md">24 Blocks - Structure and Characters</a></li>
-<li><a href="https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/main/AI%20Prompts/24-Blocks%20-%20Suggested%20Additions.md">24 Blocks - Suggested Additions</a></li>
+<li><a href="https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/AI%20Prompts/24%20Blocks%20-%20Structure%20and%20Characters.md">24 Blocks - Structure and Characters</a></li>
+<li><a href="https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/AI%20Prompts/24-Blocks%20-%20Suggested%20Additions.md">24 Blocks - Suggested Additions</a></li>
 <li><a href="https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/AI%20Prompts/24%20Blocks%20-%20Dialogue.md">24 Blocks - Dialogue</a></li>
 </ol>
     </td>
