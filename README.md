@@ -1,5 +1,5 @@
 
-<img src="./Images/Afterglow Menu v9.png" />
+<img src="./Images/ScreenwritingBlocks.png" />
 
 <div align="center">
 
@@ -8,7 +8,6 @@
 <h1>Table of Contents</h1><br>
   
 <a href="https://docs.github.com/en/site-policy/github-terms/github-community-guidelines">Guidelines</a> | <a href="https://twitter.com/i/communities/1669222125591318528">CommunityX</a> | <a href="https://twitter.com/i/lists/1675490119095140352">ListX</a> | <a href="https://twitter.com/BryanRebooted" target="_blank">X</a> <br>
-
 
 </div>
 
