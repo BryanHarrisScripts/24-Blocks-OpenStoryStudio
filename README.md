@@ -37,8 +37,8 @@
       <ol start="1">
         <li><a href="#a-new-way">A New Way?</a></li>
         <li><a href="#welcome-to-the-afterglow-journey">Welcome to Afterglow</a></li>
-        <li><a href="#about-afterglow-echoes-of-sentience">About 'Afterglow: Echoes of Sentience'</a></li>
-        <li><a href="#afterglow-files">'Afterglow' Script Files v8, v9</a></li>
+        <li><a href="#about-afterglow-echoes-of-sentience">About Afterglow: Echoes of Sentience</a></li>
+        <li><a href="#afterglow-files">Afterglow Script Files v8, v9</a></li>
         <li><a href="#the-unseen-editor">The Unseen Editor</a></li>
         <li><a href="#ai-in-screenwriting-a-new-tool-not-a-co-author">AI in Screenwriting</a></li>
         <li><a href="#ai-in-creativity-a-disclaimer">AI in Creativity: A Disclaimer</a></li>  
