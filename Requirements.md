@@ -84,6 +84,7 @@
 - BryanHarrisScripts/24-Blocks-OpenStorytelling/LoglinesLoglines.md
 - BryanHarrisScripts/24-Blocks-OpenStorytelling/OpenSource1 Million Voices.md
 - BryanHarrisScripts/24-Blocks-OpenStorytelling/OpenSourceOpen Source Collaboration.md
+- BryanHarrisScripts/24-Blocks-OpenStorytelling/4Acts_24Blocks2.png 
 - BryanHarrisScripts/24-Blocks-OpenStorytelling/README.md
 - BryanHarrisScripts/24-Blocks-OpenStorytelling/Requirements.md
 - BryanHarrisScripts/Afterglow-Echoes-of-Sentience/Afterglow StoryboardAI Storyboard Concept.md
