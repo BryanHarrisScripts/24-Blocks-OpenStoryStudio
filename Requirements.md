@@ -8,7 +8,7 @@
 - BryanHarrisScripts/24-Blocks-OpenStorytelling/24 Blocks24 Blocks - Structure Diversity.md
 - BryanHarrisScripts/24-Blocks-OpenStorytelling/24 Blocks24 Blocks - Structure Guide.md
 - BryanHarrisScripts/24-Blocks-OpenStorytelling/24 Blocks24 Blocks - Structures Role.md
-- BryanHarrisScripts/24-Blocks-OpenStorytelling/24 BlocksREADME.md
+- BryanHarrisScripts/24-Blocks-OpenStorytelling/24 Blocks/README.md
 - BryanHarrisScripts/24-Blocks-OpenStorytelling/AI Prompts24 Blocks - ChatGPT Tips.md
 - BryanHarrisScripts/24-Blocks-OpenStorytelling/AI Prompts24 Blocks - Copywriting and Marketing.md
 - BryanHarrisScripts/24-Blocks-OpenStorytelling/AI Prompts24 Blocks - Critique and Pacing.md
@@ -20,7 +20,7 @@
 - BryanHarrisScripts/24-Blocks-OpenStorytelling/AI Prompts24 Blocks - Redundancy and Streamlining.md
 - BryanHarrisScripts/24-Blocks-OpenStorytelling/AI Prompts24 Blocks - Structure and Characters.md
 - BryanHarrisScripts/24-Blocks-OpenStorytelling/AI Prompts24-Blocks - Suggested Additions.md
-- BryanHarrisScripts/24-Blocks-OpenStorytelling/AI PromptsREADME.md
+- BryanHarrisScripts/24-Blocks-OpenStorytelling/AI Prompts/README.md
 - BryanHarrisScripts/24-Blocks-OpenStorytelling/BlogGithub Collaborative Writing.md
 - BryanHarrisScripts/24-Blocks-OpenStorytelling/BlogGithub Mastering Markdown.md
 - BryanHarrisScripts/24-Blocks-OpenStorytelling/BlogGithub Merging Final Draft and Text.md
@@ -29,7 +29,7 @@
 - BryanHarrisScripts/24-Blocks-OpenStorytelling/BlogLLMs, Twitter, Github, and AI.md
 - BryanHarrisScripts/24-Blocks-OpenStorytelling/BlogOpen-Sourcing Licensing and Protection.md
 - BryanHarrisScripts/24-Blocks-OpenStorytelling/BlogOpen-Sourcing Your Screenplay.md
-- BryanHarrisScripts/24-Blocks-OpenStorytelling/BlogREADME.md
+- BryanHarrisScripts/24-Blocks-OpenStorytelling/Blog/README.md
 - BryanHarrisScripts/24-Blocks-OpenStorytelling/Character24 Blocks - Character Archetypes.md
 - BryanHarrisScripts/24-Blocks-OpenStorytelling/Character24 Blocks - Character Guide.md
 - BryanHarrisScripts/24-Blocks-OpenStorytelling/Character24 Blocks - Compelling Characters.md
@@ -43,8 +43,7 @@
 - BryanHarrisScripts/24-Blocks-OpenStorytelling/Character24 Blocks - Questions Act 2.md
 - BryanHarrisScripts/24-Blocks-OpenStorytelling/Character24 Blocks - Questions Act 3.md
 - BryanHarrisScripts/24-Blocks-OpenStorytelling/Character24 Blocks - Questions Act 4.md
-- BryanHarrisScripts/24-Blocks-OpenStorytelling/CharacterREADME.md
-- BryanHarrisScripts/24-Blocks-OpenStorytelling/CollaboratorsREADME.md
+- BryanHarrisScripts/24-Blocks-OpenStorytelling/Character/README.md
 - BryanHarrisScripts/24-Blocks-OpenStorytelling/Dialogue24 Blocks - Art of Silence.md
 - BryanHarrisScripts/24-Blocks-OpenStorytelling/Dialogue24 Blocks - Balancing Action.md
 - BryanHarrisScripts/24-Blocks-OpenStorytelling/Dialogue24 Blocks - Conflict.md
@@ -56,11 +55,11 @@
 - BryanHarrisScripts/24-Blocks-OpenStorytelling/Dialogue24 Blocks - Reveal Character.md
 - BryanHarrisScripts/24-Blocks-OpenStorytelling/Dialogue24 Blocks - Subtext.md
 - BryanHarrisScripts/24-Blocks-OpenStorytelling/Dialogue24 Blocks - Tags and Beats.md
-- BryanHarrisScripts/24-Blocks-OpenStorytelling/DialogueREADME.md
+- BryanHarrisScripts/24-Blocks-OpenStorytelling/Dialogue/README.md
 - BryanHarrisScripts/24-Blocks-OpenStorytelling/EssentialsBeyond Sluglines.md
 - BryanHarrisScripts/24-Blocks-OpenStorytelling/EssentialsEssential Aspects 1.md
 - BryanHarrisScripts/24-Blocks-OpenStorytelling/EssentialsEssential Aspects 2.md
-- BryanHarrisScripts/24-Blocks-OpenStorytelling/EssentialsREADME.md
+- BryanHarrisScripts/24-Blocks-OpenStorytelling/Essentials/README.md
 - BryanHarrisScripts/24-Blocks-OpenStorytelling/EssentialsScene Writing.md
 - BryanHarrisScripts/24-Blocks-OpenStorytelling/EssentialsStorytelling Dynamics.md
 - BryanHarrisScripts/24-Blocks-OpenStorytelling/EssentialsSymbolic Techniques.md
@@ -77,8 +76,8 @@
 - BryanHarrisScripts/24-Blocks-OpenStorytelling/GeneralGeneral - The Vomit Draft.md
 - BryanHarrisScripts/24-Blocks-OpenStorytelling/GeneralGeneral - The Writing Process.md
 - BryanHarrisScripts/24-Blocks-OpenStorytelling/GeneralGeneral - Tropes and Genres.md
-- BryanHarrisScripts/24-Blocks-OpenStorytelling/GeneralGeneral - World Building.md
-- BryanHarrisScripts/24-Blocks-OpenStorytelling/GeneralREADME.md
+- BryanHarrisScripts/24-Blocks-OpenStorytelling/EssentialsGeneral - World Building.md
+- BryanHarrisScripts/24-Blocks-OpenStorytelling/General/README.md
 - BryanHarrisScripts/24-Blocks-OpenStorytelling/GeneralScreenplay Challenges Guide.md
 - BryanHarrisScripts/24-Blocks-OpenStorytelling/GeneralScript Formatting.md
 - BryanHarrisScripts/24-Blocks-OpenStorytelling/LoglinesLoglines.md
@@ -96,7 +95,7 @@
 - BryanHarrisScripts/Afterglow-Echoes-of-Sentience/AfterglowElevator Pitch.md
 - BryanHarrisScripts/Afterglow-Echoes-of-Sentience/AfterglowMovie Inspirations.md
 - BryanHarrisScripts/Afterglow-Echoes-of-Sentience/AfterglowMusic Inspirations.md
-- BryanHarrisScripts/Afterglow-Echoes-of-Sentience/AfterglowREADME.md
+- BryanHarrisScripts/Afterglow-Echoes-of-Sentience/Afterglow/README.md
 - BryanHarrisScripts/Afterglow-Echoes-of-Sentience/AfterglowSoftware and Tools.md
 - BryanHarrisScripts/Afterglow-Echoes-of-Sentience/README.md
 - BryanHarrisScripts/Afterglow-Echoes-of-Sentience/Requirements.md
