@@ -1,1 +1,0 @@
-Content created with OpenStorytelling Plus, an IA-powered OpenAI ChatGPT platform combining advanced screenplay tools and AI technology. Contributions by Bryan Harris and OpenStorytelling Plus methodologies are key. Shared under Creative Commons CC-BY-SA-4.0 license.
