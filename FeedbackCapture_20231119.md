@@ -1,1 +1,0 @@
-User provided feedback on openStorytelling Plus
