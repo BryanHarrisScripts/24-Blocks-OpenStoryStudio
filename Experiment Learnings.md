@@ -50,6 +50,18 @@ The tables emphasize differences in script development, funding, community colla
 
 Overall, the One Million Voices Experiment represents an ambitious endeavor to challenge conventional practices and utilize technology and global collaboration to transform the creative landscape. The priority items, detailed comparisons, and identified concerns provide a roadmap for navigating the intricate world of innovation in storytelling.
 
+| Feature | CC BY-SA 4.0 | CC BY-NC-SA 4.0 |
+| --- | --- | --- |
+| **Attribution (BY)** | Required. Users must give appropriate credit, provide a link to the license, and indicate if changes were made. | Required. Users must give appropriate credit, provide a link to the license, and indicate if changes were made. |
+| **ShareAlike (SA)** | Required. If users remix, transform, or build upon the material, they must distribute contributions under the same license as the original. | Required. If users remix, transform, or build upon the material, they must distribute contributions under the same license as the original. |
+| **NonCommercial (NC)** | Not applicable. Users can use the material for commercial purposes. | Required. Users cannot use the material for commercial purposes. |
+| **Commercial Use** | Allowed. Users can use the material for commercial purposes. | Not allowed. The material can only be used for non-commercial purposes. |
+| **Derivative Works** | Allowed. Users can distribute derivative works under the same license as the original. | Allowed. Users can distribute derivative works under the same license as the original, but not for commercial purposes. |
+
+This table provides a side-by-side comparison of the key features of the CC BY-SA 4.0 and CC BY-NC-SA 4.0 licenses.
+
+--- 
+
 <a href="#top">Back to Top</a>
 
 ## Why Change the Norms?
