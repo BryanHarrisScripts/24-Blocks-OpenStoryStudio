@@ -1,3 +1,9 @@
+<div align="right" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 1em; margin: 4em 0;">
+
+<a href="https://openstorytelling.com">Home</a>
+
+<div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 1em; margin: 4em 0;">
+
 **Introduction to OpenStorytelling.com:**
 OpenStorytelling.com, led by Bryan Harris, is a pioneering platform blending AI technologies to transform storytelling, particularly in screenplay development and visualization. It serves a broad audience including screenwriters, educators, students, and hobbyists, offering a novel approach to crafting stories.
 
