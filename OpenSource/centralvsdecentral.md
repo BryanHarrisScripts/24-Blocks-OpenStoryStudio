@@ -34,3 +34,21 @@
 | **DAO for Platform Governance** | A Decentralized Autonomous Organization for community-driven decision making. | DAO platforms like Aragon, DAOstack |
 | **Decentralized Community Tools** | Tools for collaboration, feedback, and support within the screenwriting community. | Decentralized platforms like OrbitDB, Radicle for community engagement |
 
+| Feature/Tool                       | Centralized Method                          | Decentralized Method                        |
+|------------------------------------|--------------------------------------------|---------------------------------------------|
+| **Script Segmentation**            | Utilizing Azure AI for NLP and segmentation| -                                           |
+| **2D Visualization Interface**     | Azure AI for image generation              | -                                           |
+| **AI Agent Integration (CrewAI)**  | Azure AI for machine learning              | -                                           |
+| **Interactive Features**           | Azure services for real-time editing       | -                                           |
+| **OpenStorytelling Architect**     | Azure AI for world-building                | -                                           |
+| **OpenStorytelling Plus**          | GitHub for hosting and collaboration       | -                                           |
+| **OpenStorytelling Visualizer**    | Azure AI for script interpretation         | -                                           |
+| **CrewAI Core**                    | Azure AI for agent management              | -                                           |
+| **Micropayments**                  | Microsoft Azure for payment processing     | Cryptocurrencies (Ethereum, Bitcoin, etc.)  |
+| **Story Visualization (VR/AR)**    | Microsoft Mesh or Azure Mixed Reality      | Decentralized VR/AR platforms (Decentraland, Sandbox) |
+| **Job Boards**                     | LinkedIn integration for job listings      | Ethereum smart contracts for job postings   |
+| **NFTs and Smart Contracts**       | Azure Blockchain Service                   | Ethereum blockchain for NFTs and contracts  |
+| **Tokens and Blockchain**          | Azure Blockchain Service                   | Blockchain platforms for token creation     |
+| **Governance and DAO**             | Microsoft's tools for DAOs (if available)  | DAO platforms (Aragon, DAOstack, etc.)      |
+| **Community Engagement**           | Microsoft Teams or Yammer                  | Decentralized platforms (OrbitDB, Radicle)  |
+
