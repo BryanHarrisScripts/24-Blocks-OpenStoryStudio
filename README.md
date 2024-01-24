@@ -1,12 +1,16 @@
+<!-- Anchor for top of the page -->
 <a id="top"></a>
 
-<div align="right" style="display: flex; flex-wrap: wrap; justify-content: right; align-items: right; gap: 1em; margin: 1em 0;">
+<!-- Home link -->
+<div style="text-align: right; margin: 1em 0;">
     <a href="https://openstorytelling.com">Home</a>
 </div>
 
-<img src="./Images/ScreenwritingBlocks.png" />
+<!-- Image -->
+<img src="./Images/ScreenwritingBlocks.png" alt="Screenwriting Blocks" />
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: right; align-items: right; gap: 1em; margin: 1em 0;">
+<!-- Table of Contents -->
+<div style="text-align: center; margin: 1em 0;">
     <h1>Table of Contents</h1>
     <p>
         <a href="https://docs.github.com/en/site-policy/github-terms/github-community-guidelines">Guidelines</a> | 
@@ -16,24 +20,26 @@
     </p>
 </div>
       
-  <table>
-    <tr>
-       <td valign="top">
-    <h4>Read First: ☕️</h4>
-          <ol start="1">
-        <li><a href="https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/Experiment%20Learnings.md">Why Innovate?</a><br>
-        <li><a href="https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/OpenSource/Open Source Collaboration.md">Why Open-source?</a><br>
-        <li><a href="https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/OpenSource/1%20Million%20Voices.md">Why Open Collaboration?</a><br>
+<!-- Content tables -->
+<table>
+  <tr>
+    <td valign="top">
+      <h4>Read First: ☕️</h4>
+      <ol>
+        <!-- Various links -->
+        <li><a href="https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/Experiment%20Learnings.md">Why Innovate?</a></li>
+        <li><a href="https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/OpenSource/Open Source Collaboration.md">Why Open-source?</a></li>
+        <li><a href="https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/OpenSource/1%20Million%20Voices.md">Why Open Collaboration?</a></li>
         <li><a href="https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/Collaborators/README.md">Collaborators Guide</a></li>   
         <li><a href="https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/Blog/README.md">Blogs - How To's & Info</a></li>
         <li><a href="https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/Images">Images - Images Used</a></li>
         <li><a href="https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/">Github Tree</a></li>
-    </ol>
-</td>
-       </div>
+      </ol>
+    </td>
     <td valign="top">
       <h4>This Page:</h4>
-      <ol start="1">
+      <ol>
+        <!-- Various links -->
         <li><a href="#a-new-way">A New Way?</a></li>
         <li><a href="#welcome-to-the-afterglow-journey">Welcome to Afterglow</a></li>
         <li><a href="#about-afterglow-echoes-of-sentience">About Afterglow: Echoes of Sentience</a></li>
@@ -44,10 +50,11 @@
         <li><a href="#licensing-and-attribution">Licensing and Attribution</a></li>  
         <li><a href="#understanding-copyright">Copyright vs Open Source</a></li>   
       </ol>
-      </td>
+    </td>
     <td valign="top">
       <h4>Screenplay Resources:</h4>
-      <ol start="1">
+      <ol>
+        <!-- Various links -->
         <li><a href="https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/General/README.md">📚 Foundations - Storytelling</a></li>
         <li><a href="https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/24%20Blocks/README.md">📚 Structure - 24 Blocks**</a></li>
         <li><a href="https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/Essentials/README.md">📚 Essentials - Tone, Pacing</a></li>
@@ -57,21 +64,17 @@
         <li><a href="https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/AI%20Prompts/README.md">📚 Editing - AI Prompts**</a></li>
       </ol>
     </td>
-    </tr>
-  </table>
-</div>
+  </tr>
+</table>
 
-<div align="center">
+<!-- Footer -->
+<div style="text-align: center;">
   <a href="#licensing-and-attribution">**Developed by a Human: Bryan Harris (24 Blocks / Afterglow Screenplay / Prompts)</a>
-</div><br>
-
-<a id="top"></a>
-
 </div>
+<br>
 
-<div align="left" style="display: flex; flex-wrap: wrap; justify-content: right; align-items: right; gap: 1em; margin: 1em 0;">
-</div>
-
+<!-- Return to top link -->
+<a href="#top">Back to Top</a>
 
 ---
  
