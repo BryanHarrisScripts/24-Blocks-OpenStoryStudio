@@ -1,3 +1,4 @@
+
 <a id="top"></a>
 
 <div align="right" style="display: flex; flex-wrap: wrap; justify-content: flex-end; gap: 1em; margin: 1em 0;">
@@ -17,10 +18,8 @@
 </div>
 
 <div align="center" style="display: flex; justify-content: center;">
-  <table style="width: auto;">
-      <table>
-       <tr>
-       <td valign="top">
+     <table>
+          <td valign="top">
     <h4>Read First: ☕️</h4>
           <ol start="1">
         <li><a href="https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/Experiment%20Learnings.md">Why Innovate?</a><br>
