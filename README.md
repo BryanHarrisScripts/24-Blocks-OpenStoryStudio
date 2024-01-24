@@ -65,8 +65,6 @@
 </div>
 
 <div align="left" style="text-align: left; margin-top: 1em;">
-</div>
-</div>
 
 ---
  
@@ -253,3 +251,5 @@ Please note that while this outlines general principles related to copyright and
 ---
 
 <a href="#top">Back to Top</a>
+
+</div>
