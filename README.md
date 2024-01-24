@@ -37,8 +37,8 @@
         <li><a href="https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/Images">Images - Images Used</a></li>
         <li><a href="https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/">Github Tree</a></li>
     </ol>
-</td>
-       </div>
+ </td>
+</div>
     <td valign="top">
       <h4>This Page:</h4>
       <ol start="1">
@@ -65,18 +65,14 @@
         <li><a href="https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/AI%20Prompts/README.md">📚 Editing - AI Prompts**</a></li>
       </ol>
     </td>
-    </tr>
-  </table>
-</div>
    </table>
-</div>
 
 <div align="center" style="text-align: center; margin-top: 1em;">
   <a href="#licensing-and-attribution">**Developed by a Human: Bryan Harris (24 Blocks / Afterglow Screenplay / Prompts)</a>
 </div>
 
-<!-- Rest of the content -->
-
+<div align="left" style="text-align: left; margin-top: 1em;">
+  
 ---
  
 ### Disclaimer
@@ -262,3 +258,5 @@ Please note that while this outlines general principles related to copyright and
 ---
 
 <a href="#top">Back to Top</a>
+
+</div>
