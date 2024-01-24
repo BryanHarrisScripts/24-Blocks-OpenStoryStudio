@@ -4,11 +4,7 @@
     <a href="https://openstorytelling.com">Home</a>
     <!-- Video container, centered -->
     <div align="center" style="margin: 1em 0;">
-        <video width="980" height="551.25" controls>
-            <source src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/assets/91784044/a830058d-2938-43ef-9fbf-9cc6346e4d07" type="video/mp4">
-            Your browser does not support the video tag.
-        </video>
-    </div>
+       </div>
 </div>
 
 <img src="./Images/ScreenwritingBlocks.png" alt="Screenwriting Blocks Image"/>
@@ -71,9 +67,7 @@
         <li><a href="https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/Loglines/Loglines.md">📚 Loglines - AI Prompt</a></li>
         <li><a href="https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/AI%20Prompts/README.md">📚 Editing - AI Prompts**</a></li>
                 </ol>
-            </td>
-        </tr>
-       </table>
+          </table>
         </tr>
     </table>
   </div>
