@@ -252,5 +252,3 @@ Please note that while this outlines general principles related to copyright and
 ---
 
 <a href="#top">Back to Top</a>
-
-</div>
