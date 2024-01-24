@@ -18,7 +18,8 @@
 </div>
 
 <div align="center" style="display: flex; justify-content: center;">
-     <table>
+    
+<table>
           <td valign="top">
     <h4>Read First: ☕️</h4>
           <ol start="1">
@@ -31,7 +32,6 @@
         <li><a href="https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/">Github Tree</a></li>
     </ol>
  </td>
-</div>
     <td valign="top">
       <h4>This Page:</h4>
       <ol start="1">
@@ -58,7 +58,7 @@
         <li><a href="https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/AI%20Prompts/README.md">📚 Editing - AI Prompts**</a></li>
       </ol>
     </td>
-   </table>
+</table>
 
 <div align="center" style="text-align: center; margin-top: 1em;">
   <a href="#licensing-and-attribution">**Developed by a Human: Bryan Harris (24 Blocks / Afterglow Screenplay / Prompts)</a>
