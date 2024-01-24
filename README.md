@@ -18,6 +18,7 @@
 
 <div align="center" style="display: flex; justify-content: center;">
   <table style="width: auto;">
+      <table>
        <tr>
        <td valign="top">
     <h4>Read First: ☕️</h4>
