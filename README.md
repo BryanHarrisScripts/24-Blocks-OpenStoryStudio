@@ -18,6 +18,7 @@
 </div>
 
 <div align="center" style="display: flex; justify-content: center;">
+    
   <table>
    <td valign="top">
     <h4>Read First: ☕️</h4>
@@ -56,8 +57,9 @@
         <li><a href="https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/Loglines/Loglines.md">📚 Loglines - AI Prompt</a></li>
         <li><a href="https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/AI%20Prompts/README.md">📚 Editing - AI Prompts**</a></li>
       </ol>
-     </table>
     </td>
+   </table>
+
   
 
 <div align="center" style="text-align: center; margin-top: 1em;">
