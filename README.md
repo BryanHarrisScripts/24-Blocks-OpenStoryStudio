@@ -18,6 +18,7 @@
 </div>
 
 <div align="center" style="display: flex; justify-content: center;">
+</div>
     
 <table>
           <td valign="top">
@@ -65,6 +66,7 @@
 </div>
 
 <div align="left" style="text-align: left; margin-top: 1em;">
+</div>
   
 ---
  
