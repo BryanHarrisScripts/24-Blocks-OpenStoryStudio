@@ -18,15 +18,8 @@
 
 <div align="center" style="display: flex; justify-content: center;">
   <table style="width: auto;">
-    <!-- Table content goes here -->
-<table>
-    <tr>
+       <tr>
        <td valign="top">
-<!-- Content Tables, centered -->
-    <div style="width: 100%; display: flex; justify-content: center;">
-    <table style="width: 25%;"><!-- Adjust the width as needed -->
-    </table>
-        </div>
     <h4>Read First: ☕️</h4>
           <ol start="1">
         <li><a href="https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/Experiment%20Learnings.md">Why Innovate?</a><br>
