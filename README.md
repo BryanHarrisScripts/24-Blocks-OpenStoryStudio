@@ -56,8 +56,9 @@
         <li><a href="https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/Loglines/Loglines.md">📚 Loglines - AI Prompt</a></li>
         <li><a href="https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/AI%20Prompts/README.md">📚 Editing - AI Prompts**</a></li>
       </ol>
+     </table>
     </td>
-  </table>
+  
 
 <div align="center" style="text-align: center; margin-top: 1em;">
   <a href="#licensing-and-attribution">**Developed by a Human: Bryan Harris (24 Blocks / Afterglow Screenplay / Prompts)</a>
