@@ -1,19 +1,12 @@
-<!-- Main container with right alignment -->
-<div style="margin: 0; padding: 0;"></div>
-<div align="right" style="display: flex; flex-wrap: wrap; justify-content: right; align-items: right; gap: 1em; margin: 1em 0;">
-    <a href="https://openstorytelling.com">Home</a>
-    <!-- Video container, centered -->
-    <div align="center" style="margin: 1em 0;">
-       </div>
-</div>
-
-<img src="./Images/ScreenwritingBlocks.png" alt="Screenwriting Blocks Image"/>
-
-<!-- Anchor for top navigation -->
 <a id="top"></a>
 
-<!-- Table of Contents and additional links, centered -->
-<div align="center" style="margin: 1em 0;">
+<div align="right" style="display: flex; flex-wrap: wrap; justify-content: right; align-items: right; gap: 1em; margin: 1em 0;">
+    <a href="https://openstorytelling.com">Home</a>
+</div>
+
+<img src="./Images/ScreenwritingBlocks.png" />
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: right; align-items: right; gap: 1em; margin: 1em 0;">
     <h1>Table of Contents</h1>
     <p>
         <a href="https://docs.github.com/en/site-policy/github-terms/github-community-guidelines">Guidelines</a> | 
@@ -21,30 +14,27 @@
         <a href="https://twitter.com/i/lists/1675490119095140352">List 𝕏</a> | 
         <a href="https://twitter.com/BryanRebooted/bio" target="_blank">@BryanRebooted 𝕏</a>
     </p>
-        <!-- Content Tables, centered -->
-    <div style="width: 100%; display: flex; justify-content: center;">
-    <table style="width: 25%;"><!-- Adjust the width as needed -->
-        <tr>
-    <table>
-        <tr>
-            <!-- Afterglow Section -->
-            <td valign="top">
-                <h4>Everything Afterglow:</h4>
-                <ol start="1">
-                    <li><a href="https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/Experiment%20Learnings.md">Why Innovate?</a><br>
+</div>
+      
+  <table>
+    <tr>
+       <td valign="top">
+    <h4>Read First: ☕️</h4>
+          <ol start="1">
+        <li><a href="https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/Experiment%20Learnings.md">Why Innovate?</a><br>
         <li><a href="https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/OpenSource/Open Source Collaboration.md">Why Open-source?</a><br>
         <li><a href="https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/OpenSource/1%20Million%20Voices.md">Why Open Collaboration?</a><br>
         <li><a href="https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/Collaborators/README.md">Collaborators Guide</a></li>   
         <li><a href="https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/Blog/README.md">Blogs - How To's & Info</a></li>
         <li><a href="https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/Images">Images - Images Used</a></li>
         <li><a href="https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/">Github Tree</a></li>
-                </ol> 
-            </td>
-            <!-- This Page Section -->
-            <td valign="top">
-                <h4>This Page:</h4>
-                <ol start="1">
-                    <li><a href="#a-new-way">A New Way?</a></li>
+    </ol>
+</td>
+       </div>
+    <td valign="top">
+      <h4>This Page:</h4>
+      <ol start="1">
+        <li><a href="#a-new-way">A New Way?</a></li>
         <li><a href="#welcome-to-the-afterglow-journey">Welcome to Afterglow</a></li>
         <li><a href="#about-afterglow-echoes-of-sentience">About Afterglow: Echoes of Sentience</a></li>
         <li><a href="#afterglow-files">Afterglow Script Files v8, v9</a></li>
@@ -53,27 +43,35 @@
         <li><a href="#ai-in-creativity-a-disclaimer">AI in Creativity: A Disclaimer</a></li>  
         <li><a href="#licensing-and-attribution">Licensing and Attribution</a></li>  
         <li><a href="#understanding-copyright">Copyright vs Open Source</a></li>   
-                </ol>
-            </td>
-     <!-- This Page Section -->
-            <td valign="top">
-                <h4>This Page:</h4>
-                <ol start="1">
-                   <li><a href="https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/General/README.md">📚 Foundations - Storytelling</a></li>
+      </ol>
+      </td>
+    <td valign="top">
+      <h4>Screenplay Resources:</h4>
+      <ol start="1">
+        <li><a href="https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/General/README.md">📚 Foundations - Storytelling</a></li>
         <li><a href="https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/24%20Blocks/README.md">📚 Structure - 24 Blocks**</a></li>
         <li><a href="https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/Essentials/README.md">📚 Essentials - Tone, Pacing</a></li>
         <li><a href="https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/Character/README.md">📚 Character - Development</a></li>
         <li><a href="https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/Dialogue/README.md">📚 Dialogue - Development</a></li>       
         <li><a href="https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/Loglines/Loglines.md">📚 Loglines - AI Prompt</a></li>
         <li><a href="https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/AI%20Prompts/README.md">📚 Editing - AI Prompts**</a></li>
-                </ol>
-                 </td>
-        </tr>
-    </table>
-          
-<div align="center" style="margin: 1em 0;">
-    <p><a href="#licensing-and-attribution">Developed by a Human: Bryan Harris (Afterglow Screenplay)</a></p>
+      </ol>
+    </td>
+    </tr>
+  </table>
 </div>
+
+<div align="center">
+  <a href="#licensing-and-attribution">**Developed by a Human: Bryan Harris (24 Blocks / Afterglow Screenplay / Prompts)</a>
+</div><br>
+
+<a id="top"></a>
+
+</div>
+
+<div align="left" style="display: flex; flex-wrap: wrap; justify-content: right; align-items: right; gap: 1em; margin: 1em 0;">
+</div>
+
 
 ---
  
