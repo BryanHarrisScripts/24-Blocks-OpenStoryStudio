@@ -4,6 +4,8 @@
 
 <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 1em; margin: 4em 0;">
 
+<a id="table-of-contents"></a>
+
 # Mood Board Collection
 
 | Image | Description |
