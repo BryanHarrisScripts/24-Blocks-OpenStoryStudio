@@ -1,6 +1,6 @@
 # Legal Disclaimer
 
-By using the OpenStorytelling Plus platform, you acknowledge and agree that you are responsible for any content you input, adapt, or create. It is imperative to respect intellectual property rights. If your input includes copyrighted material, such as text from books, scripts, or articles, you must ensure you have the rights to use it or that it falls under fair use. Violations of copyright law are the sole responsibility of the user. 
+By using the OpenStorytelling platform, you acknowledge and agree that you are responsible for any content you input, adapt, or create. It is imperative to respect intellectual property rights. If your input includes copyrighted material, such as text from books, scripts, or articles, you must ensure you have the rights to use it or that it falls under fair use. Violations of copyright law are the sole responsibility of the user. 
 
 Original content created on OpenStorytelling Plus is owned by the user but shared under the Creative Commons CC-BY-SA-4.0 license, allowing others to use, share, and adapt this content with proper attribution. Mandatory attribution to OpenStorytelling Plus, OpenAI's ChatGPT, and Bryan Harris, as per the platform's guidelines, is required. This framework promotes ethical creation and collaborative storytelling while respecting legal boundaries.
 
