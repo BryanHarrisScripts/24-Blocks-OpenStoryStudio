@@ -1,9 +1,10 @@
 <!-- Anchor for top of the page -->
 <a id="top"></a>
 
-<!-- Home link -->
-<div style="text-align: right; margin: 1em 0;">
-    <a href="https://openstorytelling.com">Home</a>
+<!-- Main container with right alignment -->
+<div style="margin: 0; padding: 0;"></div>
+<div align="right" style="display: flex; flex-wrap: wrap; justify-content: right; align-items: right; gap: 1em; margin: 1em 0;">
+    <a href="https://openstorytelling.com">Home</a><br><br>
 </div>
 
 OpenStorytelling.com is a unique platform revolutionizing scriptwriting by integrating smart technology. It simplifies the process, turning scripts into visual scenes and enabling collaborative storytelling. With a focus on AI, the platform enhances scripts and opens new digital revenue opportunities for writers. It’s not just a concept but a working prototype, giving unseen scripts a chance to become visual, valuable digital assets. OpenStorytelling embodies the future of scriptwriting, where every story and voice finds its screen and audience.
