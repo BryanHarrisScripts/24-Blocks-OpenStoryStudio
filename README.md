@@ -260,6 +260,8 @@ Please note that while this outlines general principles related to copyright and
 
 **Disclaimer:** This content has been generated using an AI language model. It may include information, phrases, or ideas that could resemble existing copyrighted material, even though the specific sources are unknown. The AI is used for creative and informational purposes. Any resemblance to other works is coincidental, and this content is not intended to infringe upon the rights of any copyright holders.
 
+[Legal Disclaimer](https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/LegalDisclaimer.md)
+
 ---
 
 <a href="#top">Back to Top</a>
