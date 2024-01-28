@@ -1,3 +1,9 @@
+<!-- Main container with right alignment -->
+<div style="margin: 0; padding: 0;"></div>
+<div align="right" style="display: flex; flex-wrap: wrap; justify-content: right; align-items: right; gap: 1em; margin: 1em 0;">
+    <a href="https://openstorytelling.com">Home</a>
+</div>
+
 # Legal Disclaimer
 
 By using the OpenStorytelling platform, you acknowledge and agree that you are responsible for any content you input, adapt, or create. It is imperative to respect intellectual property rights. If your input includes copyrighted material, such as text from books, scripts, or articles, you must ensure you have the rights to use it or that it falls under fair use. Violations of copyright law are the sole responsibility of the user. 
