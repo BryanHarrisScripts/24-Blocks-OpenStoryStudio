@@ -6,7 +6,9 @@
 
 # Structure Guide: Blocks in Four-Acts
 
-### Introduction
+## Introduction
+
+<img src="/StorytellersCollective-1-Storyteller's Collective.png"/>
 
 Screenwriting often adheres to the conventional three-act format. This guide introduces an alternative approach, the four-act structure. This method divides each act into six blocks, each designed to propel the story and cultivate character development. This adaptable structure can cater to a wide range of genres and narratives, resulting in a well-structured and engaging screenplay.
 
@@ -119,6 +121,8 @@ In the context of a screenplay, the four-act structure divides each act into six
 
 ---
 
+<img src="/StorytellersCollective-3-Storyteller's Collective.png"/>
+
 # The Four-Act Structure in Blocks
 
 **Act 1: Setup**
@@ -129,6 +133,8 @@ In the context of a screenplay, the four-act structure divides each act into six
 - Block 4: Crossing the Threshold - Enter a new world.
 - Block 5: Meeting the Mentor - Protagonist receives guidance and wisdom.
 - Block 6: The First Test - Protagonist faces challenges.
+
+<img src="/StorytellersCollective-3-Storyteller's Collective.png"/>
 
 **Act 2: Confrontation**
 
