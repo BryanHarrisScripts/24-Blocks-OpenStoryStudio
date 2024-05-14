@@ -7,11 +7,13 @@
     <a href="https://openstorystudio.com">Home</a><br><br>
 </div>
 
-OpenStorytelling.com is a unique platform revolutionizing scriptwriting by integrating smart technology. It simplifies the process, turning scripts into visual scenes and enabling collaborative storytelling. With a focus on AI, the platform enhances scripts and opens new digital revenue opportunities for writers. It’s not just a concept but a working prototype, giving unseen scripts a chance to become visual, valuable digital assets. OpenStorytelling embodies the future of scriptwriting, where every story and voice finds its screen and audience.
+# The 24 Block Structure Creates A Common Language for AI, Writers, and Teams to Communicate Seamlessly
+
+Focusing on AI GPTs, it enhances scripts and opens new digital revenue opportunities for writers. The GPTs simplify the process, transforming scripts into visual scenes and enabling collaborative storytelling. OpenStorytelling is not just a concept but a working prototype, giving unseen scripts a chance to become visual, valuable digital assets. It embodies the future of scriptwriting, where every story and voice finds its screen and audience. OpenStorytelling.com is a unique platform revolutionizing scriptwriting by integrating smart technology.
 
 <!-- <img src="./Images/ScreenwritingBlocks.png" alt="Screenwriting Blocks" /> -->
 
-<img src="/StorytellersCollective-1-Storyteller's Collective.png" alt="24 Block Structure | A Common Language for AI"
+<img src="/StorytellersCollective-1-Storyteller's Collective.png" alt="24 Block Structure | A Common Language for AI" />
 
 <!-- Table of Contents -->
 <div style="text-align: center; margin: 1em 0;">
