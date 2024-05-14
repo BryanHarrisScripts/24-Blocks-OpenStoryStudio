@@ -7,7 +7,7 @@
     <a href="https://openstorystudio.com">Home</a><br><br>
 </div>
 
-# A Common Language for AI, Writers, and Teams to Communicate Seamlessly
+## A Common Language for AI, Writers,<br>and Teams to Communicate Story Seamlessly
 
 Focusing on AI GPTs, it enhances scripts and opens new digital revenue opportunities for writers. The GPTs simplify the process, transforming scripts into visual scenes and enabling collaborative storytelling. OpenStorytelling is not just a concept but a working prototype, giving unseen scripts a chance to become visual, valuable digital assets. It embodies the future of scriptwriting, where every story and voice finds its screen and audience. OpenStorytelling.com is a unique platform revolutionizing scriptwriting by integrating smart technology.
 
