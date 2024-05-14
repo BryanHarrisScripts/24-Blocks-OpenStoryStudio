@@ -121,7 +121,8 @@ In the context of a screenplay, the four-act structure divides each act into six
 
 ---
 
-<img src="/StorytellersCollective-3-Storyteller's Collective.png"/>
+<img src="/StorytellersCollective-3-ACT1 Block1_2.png"/>
+<img src="/StorytellersCollective-4-ACT1 Block3_4.png"/>
 
 # The Four-Act Structure in Blocks
 
@@ -134,7 +135,8 @@ In the context of a screenplay, the four-act structure divides each act into six
 - Block 5: Meeting the Mentor - Protagonist receives guidance and wisdom.
 - Block 6: The First Test - Protagonist faces challenges.
 
-<img src="/StorytellersCollective-3-Storyteller's Collective.png"/>
+<img src="/StorytellersCollective-5-ACT1 Block5_6.png"/>
+<img src="/StorytellersCollective-6-ACT1 Summary.png"/>
 
 **Act 2: Confrontation**
 
