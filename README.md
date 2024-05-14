@@ -13,7 +13,7 @@ Focusing on AI GPTs, it enhances scripts and opens new digital revenue opportuni
 
 <!-- <img src="./Images/ScreenwritingBlocks.png" alt="Screenwriting Blocks" /> -->
 
-<img src="/StorytellersCollective-1-Storyteller's Collective.png" alt="24 Block Structure | A Common Language for AI" />
+<img src="/StorytellersCollective-1-Storyteller's Collective.png"/>
 
 <!-- Table of Contents -->
 <div style="text-align: center; margin: 1em 0;">
